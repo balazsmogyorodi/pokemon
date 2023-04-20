@@ -1,0 +1,20 @@
+{
+    "ADATLISTA": [
+        {
+            "name": "Neo",
+            "kor": "12",
+            "fajta": "keverék"
+        },
+        {
+            "name": "Dézike",
+            "kor": "3",
+            "fajta": "foxi"
+        },
+        {
+            "name": "Daci",
+            "kor": "7",
+            "fajta": "németjuhász"
+        }
+       
+    ]
+}
