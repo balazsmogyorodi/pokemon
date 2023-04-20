@@ -14,7 +14,9 @@ $(function () {
 
 function adatbeolvas(vegpont, lista, callbackFv) {
 
-    fetch(vegpont)
+    fetch(vegpont, {
+        method: "GET"
+    })
         .then((response) => response.json())
         .then((data) => {
             lista = data;
